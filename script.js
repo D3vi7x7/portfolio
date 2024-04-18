@@ -18,8 +18,7 @@ gsap.from("#page3 h1",{
      trigger:"#page3",
      start:"top top",
      end:"bottom 44%",
-     scrub:1,
-     markers:true
+     scrub:1
    }
 })
 
@@ -42,8 +41,7 @@ gsap.from("#work2 img",{
     trigger:"#page4",
     start:"top 50%",
     end:"bottom 450%",
-    scrub:1,
-    markers:true
+    scrub:1
   }
 })
 
